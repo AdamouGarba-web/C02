@@ -9,7 +9,7 @@ int main () // Début de la fonction
     b = a - b;
     a = a - b;
 
-    printf("Après échange: a = %d, b = %d", a, b); // affiche les valeurs de a et b aprés l'échange
+    printf("Après échange: a = %d, b = %d\n", a, b); // affiche les valeurs de a et b aprés l'échange
 
     return 0; // Fin du programme
 }
