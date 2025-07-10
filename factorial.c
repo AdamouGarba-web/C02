@@ -17,7 +17,7 @@ int main() // Début de la fonction
         }
 
         {
-            printf("le factoriel de %d est : %lld\n", n, fact); // Affiche le resultat indiquant le nombre dont le factoriel a été calculé (n) ainsi que la valeur du factoriel
+            printf("Le factoriel de %d est : %lld\n", n, fact); // Affiche le resultat indiquant le nombre dont le factoriel a été calculé (n) ainsi que la valeur du factoriel
             
         }
 
